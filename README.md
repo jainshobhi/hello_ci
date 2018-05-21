@@ -1,2 +1,2 @@
 # hello_ci
-Sample repo for testing.
+Sample repo for testing
